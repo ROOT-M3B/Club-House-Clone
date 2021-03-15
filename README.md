@@ -1,7 +1,7 @@
 # Clone Interface Club House app
 
 ## Demonstration
-<img src="">
+<img src="./assets/demo.png">
 
 ## Techs
 * [ ] HTML
