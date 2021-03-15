@@ -4,7 +4,7 @@
 
 ### This is a clone of the club house application interface 
 
-## Demonstration
+## Demonstration:
 <img src="./assets/demo.png">
 
 ## Technologies Used:
@@ -14,8 +14,13 @@
         <td>CSS</td>
         <td>TailwindCSS</td>
     </tr>
+    <tr>
+        <td>5</td>
+        <td>3</td>
+        <td>2.0</td>
+    </tr>
 </table>
 
-## Author
+## Author:
 
 **RootM3b**
