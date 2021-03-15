@@ -1,0 +1,26 @@
+*, :root, button
+{
+    font-family: 'Poppins';
+}
+
+main
+{
+    border-top-left-radius: 2.5rem;
+    border-top-right-radius: 2.5rem;
+}
+
+main > div p
+{
+    background-color: rgb(226, 226, 226);
+    border-radius: 40%;
+    width: 75px;
+    height: 75px;
+    text-indent: -9999px;
+    overflow: hidden;
+    display: block;
+}
+
+p
+{
+    margin: auto;
+}
